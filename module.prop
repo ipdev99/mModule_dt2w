@@ -1,0 +1,6 @@
+id=dt2w
+name=DT2W
+version=Module
+versionCode=00001
+author=ip
+description=Simple script that enables double tap to wake on Nexus 7 (2013) and Nexus 10.
