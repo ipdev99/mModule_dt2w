@@ -12,11 +12,10 @@ Available in the releases tab. [Link](https://github.com/ipdev99/mModule_dt2w/re
 - Open Magisk Manager, select Modules and then Install from storage.
 - Reboot device
 
-### Recent changes and/or To-Do
-- Work-In-Progress.
-- Re-work of script(s).
-- Edit/update this readme.
-- Cleanup.
+### Recent changes
+- Updated to the current installer. [Link](https://github.com/topjohnwu/Magisk/commit/cf47214ee4912ed1538fbea3d09ba9dd9b5746b0)  
+- _Require Magisk v20.4 for modules_
+
 
 ### Notes
 - Feel free to use, change, improve, adapt.
