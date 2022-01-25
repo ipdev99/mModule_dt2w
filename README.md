@@ -13,13 +13,14 @@ Available in the releases tab. [Link](https://github.com/ipdev99/mModule_dt2w/re
 - Reboot device
 
 ### Recent changes
-- Updated to the current installer. [Link](https://github.com/topjohnwu/Magisk/commit/cf47214ee4912ed1538fbea3d09ba9dd9b5746b0)  
-- _Require Magisk v20.4 for modules_
+- Add module update channel.
+- Changed versionCode format.
+- Release v3
 
 
 ### Notes
 - Feel free to use, change, improve, adapt.
- - Remember to share.
+- Remember to share.
 
 ### Credits
 - The Android Community and everyone who has helped me learn through the years.
